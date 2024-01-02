@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![sgiochal's 42 stats](https://badge.mediaplus.ma/greenbinary/sgiochal?1337Badge=off&42Network=off&UM6P=off)]
+![sgiochal's 42 stats](https://badge.mediaplus.ma/greenbinary/sgiochal?1337Badge=off&42Network=off&UM6P=off)
 <!--
 **spirogio/spirogio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
