@@ -1,15 +1,15 @@
 ### Hi there 👋
 ![sgiochal's 42 stats](https://badge.mediaplus.ma/greenbinary/sgiochal?1337Badge=off&42Network=off&UM6P=off)
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,md,bash,vim,vscode,stackoverflow,html,css,github,git,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,vim,vscode,stackoverflow,github,git)](https://skillicons.dev)
 
 <br>
 
-> :desktop_computer:  Languages - C | C++ | Markdown | Bash | HTML | CSS
+> :desktop_computer:  Languages - C | C++  Bash 
 
 > :hammer_and_wrench:  Tools - Git | GitHub | Stack Overflow
 
-> :atom:  IDEs - Vim | Visual Studio | Visual Studio Code
+> :atom:  IDEs - Vim | Visual Studio Code
 
 <br>
 <!--
