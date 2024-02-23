@@ -1,3 +1,5 @@
+![](https://github.com/spirogio/spirogio/blob/main/pxart.gif)
+
 ### Hi there 👋
 ![sgiochal's 42 stats](https://badge.mediaplus.ma/greenbinary/sgiochal?1337Badge=off&42Network=off&UM6P=off)
 
